@@ -1,4 +1,7 @@
 Lion
 Zibbra
 Parrot
+Bear
+Monkey
+
 
